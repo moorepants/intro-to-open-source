@@ -8,8 +8,9 @@ popular open source projects. There will be interactive activities during the
 tutorial so you will need to be prepared. Make sure to do all the goals in the
 "Preparation" section below before you come to the event.
 
-If you have a laptop, please bring that to the event. If you don't we will pair
-you up with some anyways for pair programming.
+If you have a laptop, please bring that to the event with the software
+installed. If you don't have one we will pair you up with someone anyways for
+pair programming, but ideally you have a laptop at the event.
 
 Friday, September 12, 2014
 5pm - 8pm
