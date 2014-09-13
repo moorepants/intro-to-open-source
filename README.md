@@ -99,8 +99,3 @@ line.
 - [Windows](https://openhatch.org/wiki/PyCon_intro_to_open_source/Windows_terminal_navigation)
 - [OS X](https://openhatch.org/wiki/PyCon_intro_to_open_source/OSX_terminal_navigation)
 - [Linux](https://openhatch.org/wiki/PyCon_intro_to_open_source/Linux_terminal_navigation)
-
-Collective Coding Challenge: Tic-Tac-Toe
-========================================
-
-https://github.com/moorepants/ieee-tic-tac-toe
