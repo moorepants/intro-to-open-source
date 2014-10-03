@@ -140,5 +140,10 @@ Date:   Sat Sep 13 15:59:56 2014 -0400
     This is my first commit.
 ```
 
+# More Info
+
+Software Carpentry's lesson on version control with Git:
+
+http://software-carpentry.org/v5/novice/git/index.html
 
 
